@@ -1,86 +1,20 @@
-# Amayra’s Birthday App 🎂💖
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-A fun and interactive birthday surprise website created for Amayra using HTML, CSS, JavaScript.
-The app includes animations, quizzes, birthday wishes, music, and a personalized message experience.
+# Run and deploy your AI Studio app
 
-## ✨ Features
+This contains everything you need to run your app locally.
 
-* 🎉 Animated Birthday Landing Page
-* 📸 Photo Gallery Slideshow
-* 🕹️ Fun Quiz About Amayra
-* 💌 Personalized Message Board
-* 🎶 Background Music & Birthday Vibes
-* 🎈 Confetti, Balloons, and Fun Effects
+View your app in AI Studio: https://ai.studio/apps/a63219bd-eb1b-4d80-b02d-3e9d71e30a92
 
----
+## Run Locally
 
-## 🛠️ Tech Stack
-
-* HTML
-* CSS
-* JavaScript
-* Google AI Studio
-
----
-
-## 📂 Project Structure
-
-```bash
-AmayraBirthdayApp/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   ├── music/
-```
-
----
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/AmayraBirthdayApp.git
-cd AmayraBirthdayApp
-```
-
-Run the project using any local server or open `index.html` in your browser.
-
----
-
-## 📌 Functionalities
-
-* Display animated birthday wishes
-* Show memorable photos in slideshow format
-* Play interactive quiz games
-* Allow users to send personalized birthday messages
-* Create a fun and engaging birthday experience
-
----
-
-## 🎨 Future Improvements
-
-* Add more quiz questions
-* Add countdown timer for birthday
-* Add custom themes and effects
-* Improve responsiveness for mobile devices
-
----
-
-## 📜 License
-
-MIT License
-
----
-
-## 👨‍💻 Author
-
-Ahan
+**Prerequisites:**  Node.js
 
 
-##❤️ Made For
-
-Amayra 🎂💖
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
