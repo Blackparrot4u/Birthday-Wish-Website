@@ -1,6 +1,6 @@
 # Amayra’s Birthday App 🎂💖
 
-A fun and interactive birthday surprise website created for Amayra using HTML, CSS, JavaScript, and Google AI Studio.
+A fun and interactive birthday surprise website created for Amayra using HTML, CSS, JavaScript.
 The app includes animations, quizzes, birthday wishes, music, and a personalized message experience.
 
 ## ✨ Features
